@@ -68,6 +68,26 @@
       ],
       "version": "1.0.0",
       "last_updated": "2026-03-09"
+    },
+    {
+      "name": "skill-creator",
+      "category": "开发工具",
+      "tags": [
+        "Python",
+        "Skill开发",
+        "自动化",
+        "测试"
+      ],
+      "description": "创建新技能、修改和改进现有技能，并测量技能性能。用于从头创建技能、编辑或优化现有技能、运行评估测试、基准测试性能分析或优化技能描述以提高触发准确性",
+      "path": "skills/skill-creator",
+      "dependencies": [
+        "json",
+        "os",
+        "pathlib",
+        "datetime"
+      ],
+      "version": "1.0.0",
+      "last_updated": "2026-03-09"
     }
   ]
 }
