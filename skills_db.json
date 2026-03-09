@@ -52,6 +52,55 @@
       ],
       "version": "1.0.0",
       "last_updated": "2026-03-09"
+    },
+    {
+      "name": "agent-browser",
+      "category": "自动化工具",
+      "tags": [
+        "浏览器自动化",
+        "Web测试",
+        "数据抓取",
+        "CLI工具"
+      ],
+      "description": "AI代理的浏览器自动化CLI工具。用于与网站交互，包括导航页面、填写表单、点击按钮、截图、提取数据、测试Web应用或自动化任何浏览器任务",
+      "path": "skills/agent-browser",
+      "dependencies": [
+        "npx"
+      ],
+      "version": "1.0.0",
+      "last_updated": "2026-03-09"
+    },
+    {
+      "name": "executing-plans",
+      "category": "项目管理",
+      "tags": [
+        "计划执行",
+        "任务管理",
+        "开发流程"
+      ],
+      "description": "用于执行已编写的实施计划，在独立会话中按计划执行任务并进行审查检查点",
+      "path": "skills/executing-plans",
+      "dependencies": [
+        ""
+      ],
+      "version": "1.0.0",
+      "last_updated": "2026-03-09"
+    },
+    {
+      "name": "writing-plans",
+      "category": "项目管理",
+      "tags": [
+        "计划编写",
+        "需求分析",
+        "开发规划"
+      ],
+      "description": "用于为多步骤任务编写全面的实施计划。在接触代码之前，根据规格或需求创建详细的实施计划",
+      "path": "skills/writing-plans",
+      "dependencies": [
+        ""
+      ],
+      "version": "1.0.0",
+      "last_updated": "2026-03-09"
     }
   ]
 }
