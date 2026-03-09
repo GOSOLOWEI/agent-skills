@@ -34,42 +34,6 @@
       "last_updated": "2026-03-08"
     },
     {
-      "name": "file_processor",
-      "category": "数据处理",
-      "tags": [
-        "Python",
-        "文件",
-        "自动化"
-      ],
-      "description": "批量处理文件，支持重命名、移动、复制、压缩等操作，新增文件类型过滤功能",
-      "path": "skills/file_processor",
-      "dependencies": [
-        "shutil",
-        "os",
-        "pathlib"
-      ],
-      "version": "1.1.0",
-      "last_updated": "2026-03-09"
-    },
-    {
-      "name": "stats_analyzer",
-      "category": "数据分析",
-      "tags": [
-        "Python",
-        "数据分析",
-        "统计"
-      ],
-      "description": "对数据进行统计分析，生成报告和可视化图表",
-      "path": "skills/stats_analyzer",
-      "dependencies": [
-        "pandas",
-        "matplotlib",
-        "numpy"
-      ],
-      "version": "1.0.0",
-      "last_updated": "2026-03-09"
-    },
-    {
       "name": "skill-creator",
       "category": "开发工具",
       "tags": [
